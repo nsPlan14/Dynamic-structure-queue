@@ -89,7 +89,7 @@ void popNode(Node* &pRoot) {
 }
 
 int main() {
-  Node* pRoot = nullptr;    // poiter at the head of the dynamic structure
+  Node* pRoot = nullptr;    // pointer at the head of the dynamic structure
   Node* pNew = new Node;    // node to be passed to function and be added to the dynamic structure
 
   // variables for the usage of the menu
